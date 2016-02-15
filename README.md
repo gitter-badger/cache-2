@@ -1,6 +1,8 @@
 Kohana Cache library
 ====================
 
+[![Join the chat at https://gitter.im/Oreolek/cache](https://badges.gitter.im/Oreolek/cache.svg)](https://gitter.im/Oreolek/cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The cache library for Kohana 3 provides a simple interface to the most common cache solutions. Developers are free to add their own caching solutions that follow the cache design pattern defined within this module.
 
 Supported cache solutions
